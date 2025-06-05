@@ -1,0 +1,6 @@
+streamlit==1.35.0
+networkx==3.2.1
+matplotlib==3.8.4
+paramiko==3.4.0
+requests==2.32.2
+reportlab==4.1.0
